@@ -1,9 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently building AI/ML solutions, dashboards, and scalable web applications  
 👯 I’m looking to collaborate on Machine Learning, data-driven systems, and AI products  
-🤝 I’m looking for guidance in deep learning, MLOps, and deploying ML models in production  
-🌱 I’m currently learning advanced ML algorithms, data analytics, and backend architecture  
-💬 Ask me about Python, ML workflows, feature engineering, or full-stack development  
 ⚡ Fun fact: I enjoy converting complex ideas into simple, working tech solutions 🚀
 
 
